@@ -1,6 +1,6 @@
-# For Delta Wallet DAPP Developer
+# For Deta Wallet DAPP Developer
 
-## Using Delta Wallet Near JS API
+## Using Deta Wallet Near JS API
 
 ### Wallet Api
 
